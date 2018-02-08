@@ -1,0 +1,14 @@
+Programsekvens :
+Kör först Paintserver.java
+Skriv in portnummer
+
+Starta sedan Client.java
+Fyll i namn samt IP : 'localhost'
+portnummer är samma som för server ovan
+
+Klient är nu ansluten till server och namn samt IP dyker upp i Server-GUI.
+Nu kan klienten rita och är ansluten till servern.
+
+Prova gärna att köra flera klienter samtidigt till samma portnummer.
+
+JAR fil finns för att köra Paintprogram separat
